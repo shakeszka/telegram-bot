@@ -1,0 +1,11 @@
+venv/
+.idea/
+__pycache__/
+pycache__/
+
+.env
+Procfile
+config.py
+
+test.sqlite
+
